@@ -1,0 +1,65 @@
+16
+John Smith
+Computer Science
+25
+3.45
+Mary White
+History
+19
+3.44
+Jose Gonzales
+Biology
+20
+2.78
+Michael Wison
+Theater
+21
+3.0
+Maria Klein
+Spanish
+20
+2.56
+Joan Foley
+Mathematics
+23
+3.89
+Joseph Baroody
+English
+22
+2.77
+William McGrath
+History
+23
+2.00
+George W. Buch
+Politics
+21
+2.86
+Hilary Clinton
+Politics
+22
+3.60
+Oprah Winfrey
+Theater
+21
+3.25
+Condoleezza Rice
+Foreign Affairs
+23
+4.0
+Dwayne Wade
+Physical Education
+33
+3.33
+Ryan Tannerhile
+History
+26
+3.00
+Bill Gates
+Computer science
+49
+1.23
+George H. W. Bush
+Psychology
+87
+4.00

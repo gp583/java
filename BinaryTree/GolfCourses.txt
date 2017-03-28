@@ -1,0 +1,155 @@
+22
+Abacoa Golf Club
+Jupiter
+45
+72
+Joe Lee
+1999
+7200
+Eastpointe Country Club
+PB Gardens
+50
+72
+George and Tom Fazio
+1974
+6890
+Golf Club at Jupiter
+Jupiter
+20
+70
+Lamar Smith
+1980
+6265
+The Golf and Racquet Country Club at Eastpointe
+PB Gardens
+65
+71
+Tom Fazio
+1976
+6308
+Jupiter Dunes Golf Club
+Jupiter
+16
+54
+Bob Erickson
+1977
+2217
+Jonathan's Landing
+Jupiter
+55
+71
+Tom & George Fazio
+1978
+6645
+Jupiter Hills Golf Club
+Tequesta
+65
+72
+George & Tom Fazio
+1970
+6915
+N. Palm Beach Country Club
+N. Palm Beach
+26
+72
+Jack Nicklaus 
+2004
+6881
+PB Gardens Golf Club
+PB Gardens
+25
+72
+Joe Lee
+0000
+6504
+Tradition Golf Club
+Royal Palm
+25
+72
+Mike Mahannah
+1954
+6846
+Village Golf Club
+Royal Palm
+20
+72
+Mark Mahannah
+1989
+6880
+Atlantis Country Club
+Atlantis
+37
+72
+Robert Simmons
+1971
+6610
+Bear Lakes Country Club
+W. Palm Beach
+60
+72
+Jack Nicklaus
+1998
+7062
+Belle Glade Municipal Golf Course
+Belle Glade
+25.44
+72
+unknown
+1989
+6558
+The Club at Winston Trails
+Lake Worth
+26
+72
+Joe Lee
+1992
+6838
+Emerald Dunes Golf Club
+W. Palm Beach
+80
+72
+Tom Fazio
+1990
+7006
+Family Golf Center at W. Palm Beach
+W. Palm Beach
+13
+54
+unknown
+0000
+1801
+Ibis Golf & Country Club
+W. Palm Beach
+75
+72
+Jack Nicklaus,Steve and Jack Nicklaus Jr.
+0000
+7228
+Lake Worth Golf Club
+Lake Worth
+16
+70
+William Langford & Theodore Moreau
+1924
+6120
+Lacuna Golf & Country Club
+Lake Worth
+30
+71
+Joe Lee
+0000
+6813
+Lone Pine Golf Club
+W. Palm Beach
+15
+62
+unknown
+0000
+4100
+Lucerne Lakes Golf Club
+Lake Worth
+16
+72
+Karl Beachler
+1971
+6231
